@@ -17,6 +17,7 @@ Simulación de dados electrónicos.
 
 Introducción a conceptos básicos de electrónica digital.
 
+
 # Código 2: Control de LEDs con un joystick analógico
 
 Descripción: Este programa permite controlar cuatro LEDs (arriba, abajo, izquierda y derecha) y un LED adicional, dependiendo de la posición y pulsación del joystick.
@@ -82,6 +83,9 @@ Aplicaciones:
 Simulación de puertas automáticas.
 
 Sistemas de acceso sin contacto.
+![Imagen de WhatsApp 2024-12-09 a las 19 33 51_9368597b](https://github.com/user-attachments/assets/4a1b206a-086a-47ba-90ed-fc9c7fff3c31)
+
+
 
 # Código 6: Control de una puerta con servomotor
 

@@ -1,5 +1,6 @@
 # Codigos_de-_Arduino_Tetcer_parcial
 Código 1: Control de un display de 7 segmentos con números aleatorios
+
 Descripción: Este programa gestiona un display de 7 segmentos conectado a un microcontrolador como Arduino. Genera números aleatorios entre 1 y 6, los cuales se visualizan en el display. Un pulsador permite pausar o reanudar esta generación.
 Funcionamiento:
 

@@ -16,7 +16,7 @@ Aplicaciones:
 Simulación de dados electrónicos.
 
 Introducción a conceptos básicos de electrónica digital.
-
+![Imagen de WhatsApp 2024-11-28 a las 09 00 38_245c32af](https://github.com/user-attachments/assets/ddf83461-ddcf-46fe-9a54-120745f3a9a3)
 
 # Código 2: Control de LEDs con un joystick analógico
 
@@ -36,6 +36,9 @@ Interfaces para videojuegos o robots.
 
 Aprendizaje sobre sensores analógicos.
 
+![Imagen de WhatsApp 2024-11-28 a las 09 49 34_4b7c04ed](https://github.com/user-attachments/assets/6357d759-e712-4194-a547-d721780becf5)
+
+
 # Código 3: Teclado matricial para ingresar contraseñas
 
 Descripción: Este programa utiliza un teclado matricial de 4x4 para validar una contraseña ingresada contra una clave maestra predefinida.
@@ -50,9 +53,10 @@ Aplicaciones:
 
 Sistemas básicos de acceso por contraseña.
 
-Ejemplo práctico de uso de teclados matriciales.
+![Imagen de WhatsApp 2024-11-29 a las 09 08 26_53e004cb](https://github.com/user-attachments/assets/f0d40abd-76a4-4f0a-a1ac-df22c6060556)
 
-# Código 4: Control de un LED RGB con botones
+
+# Código 4: Control de un LED  con botones
 
 Descripción: Este programa controla un LED RGB mediante tres botones, cada uno asociado a un color primario (rojo, verde y azul).
 
@@ -68,7 +72,10 @@ Introducción al uso de LEDs RGB.
 
 Control básico de iluminación.
 
-# Código 5: Sistema con sensor ultrasónico y servomotor
+![Imagen de WhatsApp 2024-11-29 a las 08 31 54_7c5c3084](https://github.com/user-attachments/assets/9cb78fba-6c56-4012-8754-f2e0e18866e2)
+
+
+# Código 5: Sistema con sensor ultrasónico 
 
 Descripción: Este programa mide la distancia con un sensor ultrasónico y controla un servomotor para simular la apertura de una puerta, indicando el estado mediante LEDs.
 
@@ -83,6 +90,7 @@ Aplicaciones:
 Simulación de puertas automáticas.
 
 Sistemas de acceso sin contacto.
+
 ![Imagen de WhatsApp 2024-12-09 a las 19 33 51_9368597b](https://github.com/user-attachments/assets/4a1b206a-086a-47ba-90ed-fc9c7fff3c31)
 
 
